@@ -3,7 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start": "http-server."
+    "start": "http-server ."
   },
   "author": "Brahim Allaoui",
   "dependencies": {
