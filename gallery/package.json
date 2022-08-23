@@ -1,6 +1,5 @@
 {
   "name": "gallery",
-  "description": "",
   "version": "1.0.0",
   "scripts": {
     "start": "http-server -c-1 ."
@@ -8,5 +7,10 @@
   "author": "Brahim Allaoui",
   "dependencies": {
     "http-server": "^14.1.1"
-  }
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC",
+  "description": ""
 }
